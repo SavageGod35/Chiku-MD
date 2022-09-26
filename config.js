@@ -7,14 +7,14 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
-global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
+global.Owner = ['27638860735,27682185688']
+global.OwnerNumber = ['27638860735,27682185688']
+global.ownertag = ['27638860735,27682185688']
+global.BotName = "Cole-Bot V4"
+global.packname = "cole-bot v4"
+global.author = "By: Daniel and Daylin"
+global.OwnerName = "Savage God"
+global.BotSourceCode = "https://github.com/SavageGod35"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
 global.sessionName = "session"
 
@@ -61,9 +61,9 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only my *Owner* can use this command, Rest!',
     grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    privateonly: 'This command is only made for *Private Chat* Rest!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
     nolink: 'Please provide me *link*, Baka!',
