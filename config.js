@@ -15,7 +15,7 @@ global.packname = "cole-bot v4"
 global.author = "By: Demo God Daylin"
 global.OwnerName = "Savage God"
 global.BotSourceCode = "https://github.com/SavageGod35"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.SupportGroupLink = "https://chat.whatsapp.com/JwHMtTArUWW2EK06wKgSiJ"
 global.sessionName = "session"
 
 // Prefix //
