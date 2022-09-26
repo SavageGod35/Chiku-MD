@@ -7,12 +7,12 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['27638860735,27682185688']
-global.OwnerNumber = ['27638860735,27682185688']
-global.ownertag = ['27638860735,27682185688']
+global.Owner = ['27638860735']
+global.OwnerNumber = ['27638860735']
+global.ownertag = ['27638860735']
 global.BotName = "Cole-Bot V4"
 global.packname = "cole-bot v4"
-global.author = "By: Daniel and Daylin"
+global.author = "By: Demo God Daylin"
 global.OwnerName = "Savage God"
 global.BotSourceCode = "https://github.com/SavageGod35"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
