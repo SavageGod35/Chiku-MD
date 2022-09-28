@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['27638860735','27682185688']
-global.OwnerNumber = ['27638860735','27682185688']
-global.ownertag = ['27638860735','27682185688']
+global.Owner = ['27638860735']
+global.OwnerNumber = ['27638860735']
+global.ownertag = ['27638860735']
 global.BotName = "Cole-Bot V4"
 global.packname = "cole-bot v4"
 global.author = "🥷🏻Demo God Daylin🥷🏻"
