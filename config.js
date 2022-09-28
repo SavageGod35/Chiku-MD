@@ -12,10 +12,10 @@ global.OwnerNumber = ['27638860735']
 global.ownertag = ['27638860735']
 global.BotName = "Cole-Bot V4"
 global.packname = "cole-bot v4"
-global.author = "By: Demo God Daylin"
+global.author = "🥷🏻Demo God Daylin🥷🏻"
 global.OwnerName = "Savage God"
 global.BotSourceCode = "https://github.com/SavageGod35"
-global.SupportGroupLink = "https://chat.whatsapp.com/JwHMtTArUWW2EK06wKgSiJ"
+global.SupportGroupLink = "https://chat.whatsapp.com/J7ucgFgneF36hQsqV6kPGM"
 global.sessionName = "session"
 
 // Prefix //
@@ -65,7 +65,7 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat* Rest!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 'Chotto Matte [Wait]...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
